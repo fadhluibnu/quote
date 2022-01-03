@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\quote\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-eu\\values-eu.xml",
+            "outputFile": "C:\\Users\\ACER\\AndroidStudioProjects\\quote\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-eu\\values-eu.xml",
             "map": [
                 {
                     "source": "C:\\Users\\ACER\\.gradle\\caches\\transforms-2\\files-2.1\\b315c262f22443d4e605c15bb98f37e2\\appcompat-1.4.0\\res\\values-eu\\values-eu.xml",

@@ -1,4 +1,4 @@
-#Sun Jan 02 21:26:55 ICT 2022
-base.0=D\:\\quote\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+#Mon Jan 03 09:49:48 ICT 2022
+base.0=C\:\\Users\\ACER\\AndroidStudioProjects\\quote\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
 renamed.0=classes.dex
 path.0=classes.dex

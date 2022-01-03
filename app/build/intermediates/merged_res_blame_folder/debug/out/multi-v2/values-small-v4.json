@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\quote\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-small-v4\\values-small-v4.xml",
+            "outputFile": "C:\\Users\\ACER\\AndroidStudioProjects\\quote\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-small-v4\\values-small-v4.xml",
             "map": [
                 {
                     "source": "C:\\Users\\ACER\\.gradle\\caches\\transforms-2\\files-2.1\\900ea9ce82bd117697c057b8ea47f71f\\material-1.4.0\\res\\values-small-v4\\values-small-v4.xml",

@@ -18,7 +18,7 @@
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/Theme.Quote" >
-        <activity android:name="com.example.quote.MainActivity" >
+        <activity android:name="com.example.quote.ProfilActivity" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

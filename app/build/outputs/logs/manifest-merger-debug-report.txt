@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\quote\app\src\main\AndroidManifest.xml:2:1-21:12
-INJECTED from D:\quote\app\src\main\AndroidManifest.xml:2:1-21:12
-INJECTED from D:\quote\app\src\main\AndroidManifest.xml:2:1-21:12
-INJECTED from D:\quote\app\src\main\AndroidManifest.xml:2:1-21:12
+ADDED from C:\Users\ACER\AndroidStudioProjects\quote\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\ACER\AndroidStudioProjects\quote\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\ACER\AndroidStudioProjects\quote\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\ACER\AndroidStudioProjects\quote\app\src\main\AndroidManifest.xml:2:1-21:12
 MERGED from [androidx.core:core-ktx:1.7.0] C:\Users\ACER\.gradle\caches\transforms-2\files-2.1\cb80b6936ede0ac2ed5f321c75049239\core-ktx-1.7.0\AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.android.material:material:1.4.0] C:\Users\ACER\.gradle\caches\transforms-2\files-2.1\900ea9ce82bd117697c057b8ea47f71f\material-1.4.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.2] C:\Users\ACER\.gradle\caches\transforms-2\files-2.1\a2fe21f268502e08907845a08a5cf886\constraintlayout-2.1.2\AndroidManifest.xml:2:1-11:12
@@ -45,25 +45,25 @@ MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\ACER\.gradle\cac
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\ACER\.gradle\caches\transforms-2\files-2.1\9a20a98ca2872505c2ef83d4dc23c564\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.print:print:1.0.0] C:\Users\ACER\.gradle\caches\transforms-2\files-2.1\a92385d14d85f86c4c001bcfdb94eba5\print-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\ACER\.gradle\caches\transforms-2\files-2.1\0a392377907a2aecdcb75ebfd8bbfff4\annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
-INJECTED from D:\quote\app\src\main\AndroidManifest.xml:2:1-21:12
-INJECTED from D:\quote\app\src\main\AndroidManifest.xml:2:1-21:12
-INJECTED from D:\quote\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\ACER\AndroidStudioProjects\quote\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\ACER\AndroidStudioProjects\quote\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\ACER\AndroidStudioProjects\quote\app\src\main\AndroidManifest.xml:2:1-21:12
 	package
-		ADDED from D:\quote\app\src\main\AndroidManifest.xml:3:5-32
-		INJECTED from D:\quote\app\src\main\AndroidManifest.xml
-		INJECTED from D:\quote\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ACER\AndroidStudioProjects\quote\app\src\main\AndroidManifest.xml:3:5-32
+		INJECTED from C:\Users\ACER\AndroidStudioProjects\quote\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ACER\AndroidStudioProjects\quote\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from D:\quote\app\src\main\AndroidManifest.xml
-		ADDED from D:\quote\app\src\main\AndroidManifest.xml:2:1-21:12
-		INJECTED from D:\quote\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ACER\AndroidStudioProjects\quote\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ACER\AndroidStudioProjects\quote\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from C:\Users\ACER\AndroidStudioProjects\quote\app\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from D:\quote\app\src\main\AndroidManifest.xml
-		ADDED from D:\quote\app\src\main\AndroidManifest.xml:2:1-21:12
-		INJECTED from D:\quote\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ACER\AndroidStudioProjects\quote\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ACER\AndroidStudioProjects\quote\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from C:\Users\ACER\AndroidStudioProjects\quote\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from D:\quote\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from C:\Users\ACER\AndroidStudioProjects\quote\app\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from D:\quote\app\src\main\AndroidManifest.xml:5:5-19:19
+ADDED from C:\Users\ACER\AndroidStudioProjects\quote\app\src\main\AndroidManifest.xml:5:5-19:19
 MERGED from [com.google.android.material:material:1.4.0] C:\Users\ACER\.gradle\caches\transforms-2\files-2.1\900ea9ce82bd117697c057b8ea47f71f\material-1.4.0\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.4.0] C:\Users\ACER\.gradle\caches\transforms-2\files-2.1\900ea9ce82bd117697c057b8ea47f71f\material-1.4.0\AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.2] C:\Users\ACER\.gradle\caches\transforms-2\files-2.1\a2fe21f268502e08907845a08a5cf886\constraintlayout-2.1.2\AndroidManifest.xml:9:5-20
@@ -83,35 +83,35 @@ MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\ACER\.gradle\cache
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.7.0] C:\Users\ACER\.gradle\caches\transforms-2\files-2.1\6072fa5c7fe7e1d7d56a15631e8a31c1\core-1.7.0\AndroidManifest.xml:24:18-86
 	android:supportsRtl
-		ADDED from D:\quote\app\src\main\AndroidManifest.xml:10:9-35
+		ADDED from C:\Users\ACER\AndroidStudioProjects\quote\app\src\main\AndroidManifest.xml:10:9-35
 	android:label
-		ADDED from D:\quote\app\src\main\AndroidManifest.xml:8:9-41
+		ADDED from C:\Users\ACER\AndroidStudioProjects\quote\app\src\main\AndroidManifest.xml:8:9-41
 	android:roundIcon
-		ADDED from D:\quote\app\src\main\AndroidManifest.xml:9:9-54
+		ADDED from C:\Users\ACER\AndroidStudioProjects\quote\app\src\main\AndroidManifest.xml:9:9-54
 	android:icon
-		ADDED from D:\quote\app\src\main\AndroidManifest.xml:7:9-43
+		ADDED from C:\Users\ACER\AndroidStudioProjects\quote\app\src\main\AndroidManifest.xml:7:9-43
 	android:allowBackup
-		ADDED from D:\quote\app\src\main\AndroidManifest.xml:6:9-35
+		ADDED from C:\Users\ACER\AndroidStudioProjects\quote\app\src\main\AndroidManifest.xml:6:9-35
 	android:theme
-		ADDED from D:\quote\app\src\main\AndroidManifest.xml:11:9-43
-activity#com.example.quote.MainActivity
-ADDED from D:\quote\app\src\main\AndroidManifest.xml:12:9-18:20
+		ADDED from C:\Users\ACER\AndroidStudioProjects\quote\app\src\main\AndroidManifest.xml:11:9-43
+activity#com.example.quote.ProfilActivity
+ADDED from C:\Users\ACER\AndroidStudioProjects\quote\app\src\main\AndroidManifest.xml:12:9-18:20
 	android:name
-		ADDED from D:\quote\app\src\main\AndroidManifest.xml:12:19-47
+		ADDED from C:\Users\ACER\AndroidStudioProjects\quote\app\src\main\AndroidManifest.xml:12:19-49
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from D:\quote\app\src\main\AndroidManifest.xml:13:13-17:29
+ADDED from C:\Users\ACER\AndroidStudioProjects\quote\app\src\main\AndroidManifest.xml:13:13-17:29
 action#android.intent.action.MAIN
-ADDED from D:\quote\app\src\main\AndroidManifest.xml:14:17-69
+ADDED from C:\Users\ACER\AndroidStudioProjects\quote\app\src\main\AndroidManifest.xml:14:17-69
 	android:name
-		ADDED from D:\quote\app\src\main\AndroidManifest.xml:14:25-66
+		ADDED from C:\Users\ACER\AndroidStudioProjects\quote\app\src\main\AndroidManifest.xml:14:25-66
 category#android.intent.category.LAUNCHER
-ADDED from D:\quote\app\src\main\AndroidManifest.xml:16:17-77
+ADDED from C:\Users\ACER\AndroidStudioProjects\quote\app\src\main\AndroidManifest.xml:16:17-77
 	android:name
-		ADDED from D:\quote\app\src\main\AndroidManifest.xml:16:27-74
+		ADDED from C:\Users\ACER\AndroidStudioProjects\quote\app\src\main\AndroidManifest.xml:16:27-74
 uses-sdk
-INJECTED from D:\quote\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from D:\quote\app\src\main\AndroidManifest.xml
-INJECTED from D:\quote\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\ACER\AndroidStudioProjects\quote\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\ACER\AndroidStudioProjects\quote\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\ACER\AndroidStudioProjects\quote\app\src\main\AndroidManifest.xml
 MERGED from [androidx.core:core-ktx:1.7.0] C:\Users\ACER\.gradle\caches\transforms-2\files-2.1\cb80b6936ede0ac2ed5f321c75049239\core-ktx-1.7.0\AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.core:core-ktx:1.7.0] C:\Users\ACER\.gradle\caches\transforms-2\files-2.1\cb80b6936ede0ac2ed5f321c75049239\core-ktx-1.7.0\AndroidManifest.xml:5:5-7:41
 MERGED from [com.google.android.material:material:1.4.0] C:\Users\ACER\.gradle\caches\transforms-2\files-2.1\900ea9ce82bd117697c057b8ea47f71f\material-1.4.0\AndroidManifest.xml:20:5-44
@@ -194,16 +194,16 @@ MERGED from [androidx.print:print:1.0.0] C:\Users\ACER\.gradle\caches\transforms
 MERGED from [androidx.print:print:1.0.0] C:\Users\ACER\.gradle\caches\transforms-2\files-2.1\a92385d14d85f86c4c001bcfdb94eba5\print-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\ACER\.gradle\caches\transforms-2\files-2.1\0a392377907a2aecdcb75ebfd8bbfff4\annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\ACER\.gradle\caches\transforms-2\files-2.1\0a392377907a2aecdcb75ebfd8bbfff4\annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
-INJECTED from D:\quote\app\src\main\AndroidManifest.xml
-INJECTED from D:\quote\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\ACER\AndroidStudioProjects\quote\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\ACER\AndroidStudioProjects\quote\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from D:\quote\app\src\main\AndroidManifest.xml
-		ADDED from D:\quote\app\src\main\AndroidManifest.xml
-		INJECTED from D:\quote\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ACER\AndroidStudioProjects\quote\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ACER\AndroidStudioProjects\quote\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ACER\AndroidStudioProjects\quote\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from D:\quote\app\src\main\AndroidManifest.xml
-		ADDED from D:\quote\app\src\main\AndroidManifest.xml
-		INJECTED from D:\quote\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ACER\AndroidStudioProjects\quote\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ACER\AndroidStudioProjects\quote\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ACER\AndroidStudioProjects\quote\app\src\main\AndroidManifest.xml
 provider#androidx.startup.InitializationProvider
 ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\ACER\.gradle\caches\transforms-2\files-2.1\db621f176cafd29d8cb88603db841fea\emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
 MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\ACER\.gradle\caches\transforms-2\files-2.1\5f9be96999c2ae88916878986ddd5313\lifecycle-process-2.4.0\AndroidManifest.xml:26:9-34:20
