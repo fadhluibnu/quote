@@ -6,64 +6,76 @@
 6
 7    <uses-sdk
 8        android:minSdkVersion="19"
-8-->C:\Users\ACER\AndroidStudioProjects\quote\app\src\main\AndroidManifest.xml
+8-->C:\Users\Lenovo\quote\app\src\main\AndroidManifest.xml
 9        android:targetSdkVersion="30" />
-9-->C:\Users\ACER\AndroidStudioProjects\quote\app\src\main\AndroidManifest.xml
+9-->C:\Users\Lenovo\quote\app\src\main\AndroidManifest.xml
 10
 11    <application
-11-->C:\Users\ACER\AndroidStudioProjects\quote\app\src\main\AndroidManifest.xml:5:5-19:19
+11-->C:\Users\Lenovo\quote\app\src\main\AndroidManifest.xml:5:5-24:19
 12        android:allowBackup="true"
-12-->C:\Users\ACER\AndroidStudioProjects\quote\app\src\main\AndroidManifest.xml:6:9-35
+12-->C:\Users\Lenovo\quote\app\src\main\AndroidManifest.xml:6:9-35
 13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-13-->[androidx.core:core:1.7.0] C:\Users\ACER\.gradle\caches\transforms-2\files-2.1\6072fa5c7fe7e1d7d56a15631e8a31c1\core-1.7.0\AndroidManifest.xml:24:18-86
+13-->[androidx.core:core:1.7.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\6072fa5c7fe7e1d7d56a15631e8a31c1\core-1.7.0\AndroidManifest.xml:24:18-86
 14        android:debuggable="true"
 15        android:icon="@mipmap/ic_launcher"
-15-->C:\Users\ACER\AndroidStudioProjects\quote\app\src\main\AndroidManifest.xml:7:9-43
+15-->C:\Users\Lenovo\quote\app\src\main\AndroidManifest.xml:7:9-43
 16        android:label="@string/app_name"
-16-->C:\Users\ACER\AndroidStudioProjects\quote\app\src\main\AndroidManifest.xml:8:9-41
+16-->C:\Users\Lenovo\quote\app\src\main\AndroidManifest.xml:8:9-41
 17        android:roundIcon="@mipmap/ic_launcher_round"
-17-->C:\Users\ACER\AndroidStudioProjects\quote\app\src\main\AndroidManifest.xml:9:9-54
+17-->C:\Users\Lenovo\quote\app\src\main\AndroidManifest.xml:9:9-54
 18        android:supportsRtl="true"
-18-->C:\Users\ACER\AndroidStudioProjects\quote\app\src\main\AndroidManifest.xml:10:9-35
+18-->C:\Users\Lenovo\quote\app\src\main\AndroidManifest.xml:10:9-35
 19        android:testOnly="true"
 20        android:theme="@style/Theme.Quote" >
-20-->C:\Users\ACER\AndroidStudioProjects\quote\app\src\main\AndroidManifest.xml:11:9-43
-21        <activity android:name="com.example.quote.ProfilActivity" >
-21-->C:\Users\ACER\AndroidStudioProjects\quote\app\src\main\AndroidManifest.xml:12:9-18:20
-21-->C:\Users\ACER\AndroidStudioProjects\quote\app\src\main\AndroidManifest.xml:12:19-49
-22            <intent-filter>
-22-->C:\Users\ACER\AndroidStudioProjects\quote\app\src\main\AndroidManifest.xml:13:13-17:29
-23                <action android:name="android.intent.action.MAIN" />
-23-->C:\Users\ACER\AndroidStudioProjects\quote\app\src\main\AndroidManifest.xml:14:17-69
-23-->C:\Users\ACER\AndroidStudioProjects\quote\app\src\main\AndroidManifest.xml:14:25-66
-24
-25                <category android:name="android.intent.category.LAUNCHER" />
-25-->C:\Users\ACER\AndroidStudioProjects\quote\app\src\main\AndroidManifest.xml:16:17-77
-25-->C:\Users\ACER\AndroidStudioProjects\quote\app\src\main\AndroidManifest.xml:16:27-74
-26            </intent-filter>
-27        </activity>
+20-->C:\Users\Lenovo\quote\app\src\main\AndroidManifest.xml:11:9-43
+21        <activity android:name="com.example.quote.HomeActivity" />
+21-->C:\Users\Lenovo\quote\app\src\main\AndroidManifest.xml:12:9-49
+21-->C:\Users\Lenovo\quote\app\src\main\AndroidManifest.xml:12:19-47
+22        <activity android:name="com.example.quote.RegisterActivity" />
+22-->C:\Users\Lenovo\quote\app\src\main\AndroidManifest.xml:13:9-54
+22-->C:\Users\Lenovo\quote\app\src\main\AndroidManifest.xml:13:19-51
+23        <activity android:name="com.example.quote.LoginActivity" />
+23-->C:\Users\Lenovo\quote\app\src\main\AndroidManifest.xml:14:9-50
+23-->C:\Users\Lenovo\quote\app\src\main\AndroidManifest.xml:14:19-48
+24        <activity android:name="com.example.quote.ProfilActivity" />
+24-->C:\Users\Lenovo\quote\app\src\main\AndroidManifest.xml:15:9-51
+24-->C:\Users\Lenovo\quote\app\src\main\AndroidManifest.xml:15:19-49
+25        <activity android:name="com.example.quote.MainActivity" >
+25-->C:\Users\Lenovo\quote\app\src\main\AndroidManifest.xml:16:9-23:20
+25-->C:\Users\Lenovo\quote\app\src\main\AndroidManifest.xml:16:19-47
+26            <intent-filter>
+26-->C:\Users\Lenovo\quote\app\src\main\AndroidManifest.xml:18:9-22:29
+27                <action android:name="android.intent.action.MAIN" />
+27-->C:\Users\Lenovo\quote\app\src\main\AndroidManifest.xml:19:17-69
+27-->C:\Users\Lenovo\quote\app\src\main\AndroidManifest.xml:19:25-66
 28
-29        <provider
-29-->[androidx.emoji2:emoji2:1.0.0] C:\Users\ACER\.gradle\caches\transforms-2\files-2.1\db621f176cafd29d8cb88603db841fea\emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
-30            android:name="androidx.startup.InitializationProvider"
-30-->[androidx.emoji2:emoji2:1.0.0] C:\Users\ACER\.gradle\caches\transforms-2\files-2.1\db621f176cafd29d8cb88603db841fea\emoji2-1.0.0\AndroidManifest.xml:27:13-67
-31            android:authorities="com.example.quote.androidx-startup"
-31-->[androidx.emoji2:emoji2:1.0.0] C:\Users\ACER\.gradle\caches\transforms-2\files-2.1\db621f176cafd29d8cb88603db841fea\emoji2-1.0.0\AndroidManifest.xml:28:13-68
-32            android:exported="false" >
-32-->[androidx.emoji2:emoji2:1.0.0] C:\Users\ACER\.gradle\caches\transforms-2\files-2.1\db621f176cafd29d8cb88603db841fea\emoji2-1.0.0\AndroidManifest.xml:29:13-37
-33            <meta-data
-33-->[androidx.emoji2:emoji2:1.0.0] C:\Users\ACER\.gradle\caches\transforms-2\files-2.1\db621f176cafd29d8cb88603db841fea\emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
-34                android:name="androidx.emoji2.text.EmojiCompatInitializer"
-34-->[androidx.emoji2:emoji2:1.0.0] C:\Users\ACER\.gradle\caches\transforms-2\files-2.1\db621f176cafd29d8cb88603db841fea\emoji2-1.0.0\AndroidManifest.xml:32:17-75
-35                android:value="androidx.startup" />
-35-->[androidx.emoji2:emoji2:1.0.0] C:\Users\ACER\.gradle\caches\transforms-2\files-2.1\db621f176cafd29d8cb88603db841fea\emoji2-1.0.0\AndroidManifest.xml:33:17-49
-36            <meta-data
-36-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\ACER\.gradle\caches\transforms-2\files-2.1\5f9be96999c2ae88916878986ddd5313\lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
-37                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
-37-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\ACER\.gradle\caches\transforms-2\files-2.1\5f9be96999c2ae88916878986ddd5313\lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
-38                android:value="androidx.startup" />
-38-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\ACER\.gradle\caches\transforms-2\files-2.1\5f9be96999c2ae88916878986ddd5313\lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
-39        </provider>
-40    </application>
-41
-42</manifest>
+29                <category android:name="android.intent.category.LAUNCHER" />
+29-->C:\Users\Lenovo\quote\app\src\main\AndroidManifest.xml:21:17-77
+29-->C:\Users\Lenovo\quote\app\src\main\AndroidManifest.xml:21:27-74
+30            </intent-filter>
+31        </activity>
+32
+33        <provider
+33-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\db621f176cafd29d8cb88603db841fea\emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
+34            android:name="androidx.startup.InitializationProvider"
+34-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\db621f176cafd29d8cb88603db841fea\emoji2-1.0.0\AndroidManifest.xml:27:13-67
+35            android:authorities="com.example.quote.androidx-startup"
+35-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\db621f176cafd29d8cb88603db841fea\emoji2-1.0.0\AndroidManifest.xml:28:13-68
+36            android:exported="false" >
+36-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\db621f176cafd29d8cb88603db841fea\emoji2-1.0.0\AndroidManifest.xml:29:13-37
+37            <meta-data
+37-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\db621f176cafd29d8cb88603db841fea\emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
+38                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+38-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\db621f176cafd29d8cb88603db841fea\emoji2-1.0.0\AndroidManifest.xml:32:17-75
+39                android:value="androidx.startup" />
+39-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\db621f176cafd29d8cb88603db841fea\emoji2-1.0.0\AndroidManifest.xml:33:17-49
+40            <meta-data
+40-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\5f9be96999c2ae88916878986ddd5313\lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
+41                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+41-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\5f9be96999c2ae88916878986ddd5313\lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
+42                android:value="androidx.startup" />
+42-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\5f9be96999c2ae88916878986ddd5313\lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
+43        </provider>
+44    </application>
+45
+46</manifest>

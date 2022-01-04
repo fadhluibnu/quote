@@ -1782,6 +1782,8 @@ int drawable abc_textfield_search_material 0x7f070054
 int drawable abc_vector_test 0x7f070055
 int drawable avd_hide_password 0x7f070056
 int drawable avd_show_password 0x7f070057
+int drawable bg_button 0x7f070095
+int drawable bg_text_field 0x7f070096
 int drawable btn_checkbox_checked_mtrl 0x7f070058
 int drawable btn_checkbox_checked_to_unchecked_mtrl_animation 0x7f070059
 int drawable btn_checkbox_unchecked_mtrl 0x7f07005a
@@ -1797,7 +1799,10 @@ int drawable design_ic_visibility_off 0x7f070063
 int drawable design_password_eye 0x7f070064
 int drawable design_snackbar_background 0x7f070065
 int drawable gradient_color 0x7f070066
+int drawable ic_baseline_account_circle_24 0x7f070097
 int drawable ic_clock_black_24dp 0x7f070067
+int drawable ic_email 0x7f070098
+int drawable ic_fullname 0x7f070099
 int drawable ic_keyboard_black_24dp 0x7f070068
 int drawable ic_launcher_background 0x7f070069
 int drawable ic_launcher_foreground 0x7f07006a
@@ -1805,6 +1810,10 @@ int drawable ic_mtrl_checked_circle 0x7f07006b
 int drawable ic_mtrl_chip_checked_black 0x7f07006c
 int drawable ic_mtrl_chip_checked_circle 0x7f07006d
 int drawable ic_mtrl_chip_close_circle 0x7f07006e
+int drawable ic_password 0x7f07009a
+int drawable icon_quote 0x7f07009b
+int drawable lgquotes 0x7f07009c
+int drawable lgquotesungu 0x7f07009d
 int drawable material_cursor_drawable 0x7f07006f
 int drawable material_ic_calendar_black_24dp 0x7f070070
 int drawable material_ic_clear_black_24dp 0x7f070071
@@ -1845,6 +1854,7 @@ int drawable tooltip_frame_light 0x7f070093
 int drawable uzumaki 0x7f070094
 int font mlight 0x7f080000
 int font mmedium 0x7f080001
+int font montserrat 0x7f080004
 int font mregular 0x7f080002
 int font msemibold 0x7f080003
 int id ALT 0x7f090000
@@ -1945,6 +1955,9 @@ int id bounce 0x7f09005e
 int id bounceBoth 0x7f09005f
 int id bounceEnd 0x7f090060
 int id bounceStart 0x7f090061
+int id btn_login 0x7f0901df
+int id btn_logout 0x7f0901e0
+int id btn_register 0x7f0901e1
 int id buttonPanel 0x7f090062
 int id cache_measures 0x7f090063
 int id callMeasure 0x7f090064
@@ -2025,6 +2038,11 @@ int id end 0x7f0900ae
 int id endToStart 0x7f0900af
 int id enterAlways 0x7f0900b0
 int id enterAlwaysCollapsed 0x7f0900b1
+int id et_confirm_password 0x7f0901e2
+int id et_email 0x7f0901e3
+int id et_fullname 0x7f0901e4
+int id et_password 0x7f0901e5
+int id et_username 0x7f0901e6
 int id exitUntilCollapsed 0x7f0900b2
 int id expand_activities_button 0x7f0900b3
 int id expanded_menu 0x7f0900b4
@@ -2038,6 +2056,7 @@ int id fixed 0x7f0900bb
 int id flip 0x7f0900bc
 int id floating 0x7f0900bd
 int id forever 0x7f0900be
+int id forget_pw 0x7f0901e7
 int id fragment_container_view_tag 0x7f0900bf
 int id frost 0x7f0900c0
 int id ghost_view 0x7f0900c1
@@ -2049,11 +2068,14 @@ int id group_divider 0x7f0900c6
 int id grouping 0x7f0900c7
 int id groups 0x7f0900c8
 int id guideline 0x7f0900c9
+int id have_account 0x7f0901e8
+int id havent_account 0x7f0901e9
 int id header 0x7f0900ca
 int id header_title 0x7f0900cb
 int id hideable 0x7f0900cc
 int id home 0x7f0900cd
 int id homeAsUp 0x7f0900ce
+int id home_tittle 0x7f0901ea
 int id honorRequest 0x7f0900cf
 int id horizontal_only 0x7f0900d0
 int id icon 0x7f0900d1
@@ -2062,6 +2084,7 @@ int id ifRoom 0x7f0900d3
 int id ignore 0x7f0900d4
 int id ignoreRequest 0x7f0900d5
 int id image 0x7f0900d6
+int id img_quote 0x7f0901eb
 int id immediateStop 0x7f0900d7
 int id included 0x7f0900d8
 int id info 0x7f0900d9
@@ -2080,12 +2103,15 @@ int id layout 0x7f0900e5
 int id left 0x7f0900e6
 int id leftToRight 0x7f0900e7
 int id legacy 0x7f0900e8
+int id lg_quote 0x7f0901ec
 int id line1 0x7f0900e9
 int id line3 0x7f0900ea
 int id linear 0x7f0900eb
 int id linearLayout 0x7f0900ec
 int id listMode 0x7f0900ed
 int id list_item 0x7f0900ee
+int id login_sub_tittle 0x7f0901ed
+int id login_tittle 0x7f0901ee
 int id masked 0x7f0900ef
 int id match_constraint 0x7f0900f0
 int id match_parent 0x7f0900f1
@@ -2184,6 +2210,8 @@ int id progress_horizontal 0x7f09014d
 int id radio 0x7f09014e
 int id ratio 0x7f09014f
 int id rectangles 0x7f090150
+int id register_sub_tittle 0x7f0901ef
+int id register_tittle 0x7f0901f0
 int id reverseSawtooth 0x7f090151
 int id right 0x7f090152
 int id rightToLeft 0x7f090153
@@ -2246,6 +2274,9 @@ int id start 0x7f09018b
 int id startHorizontal 0x7f09018c
 int id startToEnd 0x7f09018d
 int id startVertical 0x7f09018e
+int id start_ket_kel 0x7f0901f9
+int id start_sub_tittle 0x7f0901f1
+int id start_tittle 0x7f0901f2
 int id staticLayout 0x7f09018f
 int id staticPostLayout 0x7f090190
 int id stop 0x7f090191
@@ -2278,6 +2309,7 @@ int id textSpacerNoButtons 0x7f0901ab
 int id textSpacerNoTitle 0x7f0901ac
 int id textStart 0x7f0901ad
 int id textTop 0x7f0901ae
+int id textView 0x7f0901f3
 int id text_input_end_icon 0x7f0901af
 int id text_input_error_icon 0x7f0901b0
 int id text_input_start_icon 0x7f0901b1
@@ -2288,6 +2320,11 @@ int id textinput_helper_text 0x7f0901b5
 int id textinput_placeholder 0x7f0901b6
 int id textinput_prefix_text 0x7f0901b7
 int id textinput_suffix_text 0x7f0901b8
+int id til_cofirm_password 0x7f0901f4
+int id til_email 0x7f0901f5
+int id til_fullname 0x7f0901f6
+int id til_password 0x7f0901f7
+int id til_username 0x7f0901f8
 int id time 0x7f0901b9
 int id title 0x7f0901ba
 int id titleDividerNoCustom 0x7f0901bb
@@ -2393,7 +2430,10 @@ int layout abc_search_dropdown_item_icons_2line 0x7f0c0018
 int layout abc_search_view 0x7f0c0019
 int layout abc_select_dialog_material 0x7f0c001a
 int layout abc_tooltip 0x7f0c001b
+int layout activity_home 0x7f0c0074
+int layout activity_login 0x7f0c0075
 int layout activity_main 0x7f0c001c
+int layout activity_register 0x7f0c0076
 int layout custom_dialog 0x7f0c001d
 int layout design_bottom_navigation_item 0x7f0c001e
 int layout design_bottom_sheet_dialog 0x7f0c001f
@@ -2486,6 +2526,7 @@ int menu example_menu2 0x7f0d0001
 int mipmap ic_launcher 0x7f0e0000
 int mipmap ic_launcher_round 0x7f0e0001
 int plurals mtrl_badge_content_description 0x7f0f0000
+int string Login_havent_account 0x7f10006b
 int string QuoteProfil 0x7f100000
 int string abc_action_bar_home_description 0x7f100001
 int string abc_action_bar_up_description 0x7f100002
@@ -2531,6 +2572,7 @@ int string fab_transformation_sheet_behavior 0x7f100029
 int string hide_bottom_view_on_scroll_behavior 0x7f10002a
 int string icon_content_description 0x7f10002b
 int string item_view_role_description 0x7f10002c
+int string login_sub_tittle 0x7f10006c
 int string material_clock_display_divider 0x7f10002d
 int string material_clock_toggle_content_description 0x7f10002e
 int string material_hour_selection 0x7f10002f
@@ -2591,7 +2633,11 @@ int string path_password_eye 0x7f100065
 int string path_password_eye_mask_strike_through 0x7f100066
 int string path_password_eye_mask_visible 0x7f100067
 int string path_password_strike_through 0x7f100068
+int string register_have_account 0x7f10006d
+int string register_sub_tittle 0x7f10006e
+int string register_tittle 0x7f10006f
 int string search_menu_title 0x7f100069
+int string start_sub_tittle 0x7f100070
 int string status_bar_notification_info_overflow 0x7f10006a
 int style AlertDialog_AppCompat 0x7f110000
 int style AlertDialog_AppCompat_Light 0x7f110001
@@ -2821,6 +2867,8 @@ int style Base_Widget_MaterialComponents_Snackbar 0x7f1100e0
 int style Base_Widget_MaterialComponents_TextInputEditText 0x7f1100e1
 int style Base_Widget_MaterialComponents_TextInputLayout 0x7f1100e2
 int style Base_Widget_MaterialComponents_TextView 0x7f1100e3
+int style ButtonBlue 0x7f1102d2
+int style Buttonwhite 0x7f1102d3
 int style CardView 0x7f1100e4
 int style CardView_Dark 0x7f1100e5
 int style CardView_Light 0x7f1100e6
@@ -2887,6 +2935,7 @@ int style ShapeAppearanceOverlay_MaterialComponents_MaterialCalendar_Year 0x7f11
 int style ShapeAppearanceOverlay_MaterialComponents_TextInputLayout_FilledBox 0x7f110123
 int style ShapeAppearanceOverlay_TopLeftCut 0x7f110124
 int style ShapeAppearanceOverlay_TopRightDifferentCornerSize 0x7f110125
+int style Subtittle 0x7f1102d4
 int style Test_ShapeAppearanceOverlay_MaterialComponents_MaterialCalendar_Day 0x7f110126
 int style Test_Theme_MaterialComponents_MaterialCalendar 0x7f110127
 int style Test_Widget_MaterialComponents_MaterialCalendar 0x7f110128
@@ -2982,6 +3031,8 @@ int style TextAppearance_MaterialComponents_Tooltip 0x7f110181
 int style TextAppearance_Widget_AppCompat_ExpandedMenu_Item 0x7f110182
 int style TextAppearance_Widget_AppCompat_Toolbar_Subtitle 0x7f110183
 int style TextAppearance_Widget_AppCompat_Toolbar_Title 0x7f110184
+int style TextInputEditText 0x7f1102d5
+int style TextInputLayout 0x7f1102d6
 int style Theme_AppCompat 0x7f110185
 int style Theme_AppCompat_CompactMenu 0x7f110186
 int style Theme_AppCompat_DayNight 0x7f110187
@@ -3109,6 +3160,7 @@ int style ThemeOverlay_MaterialComponents_TimePicker_Display 0x7f110200
 int style ThemeOverlay_MaterialComponents_Toolbar_Primary 0x7f110201
 int style ThemeOverlay_MaterialComponents_Toolbar_Surface 0x7f110202
 int style ThemeOverlayColorAccentRed 0x7f110203
+int style Tittle 0x7f1102d7
 int style Widget_AppCompat_ActionBar 0x7f110204
 int style Widget_AppCompat_ActionBar_Solid 0x7f110205
 int style Widget_AppCompat_ActionBar_TabBar 0x7f110206

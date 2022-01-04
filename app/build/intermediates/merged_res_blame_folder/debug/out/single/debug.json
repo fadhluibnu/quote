@@ -1,126 +1,274 @@
 [
     {
-        "merged": "C:\\Users\\ACER\\AndroidStudioProjects\\quote\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
-        "source": "C:\\Users\\ACER\\AndroidStudioProjects\\quote\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+        "merged": "C:\\Users\\Lenovo\\quote\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_icon_quote.png.flat",
+        "source": "C:\\Users\\Lenovo\\quote\\app\\src\\main\\res\\drawable-v24\\icon_quote.png"
     },
     {
-        "merged": "C:\\Users\\ACER\\AndroidStudioProjects\\quote\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_uzumaki.png.flat",
-        "source": "C:\\Users\\ACER\\AndroidStudioProjects\\quote\\app\\src\\main\\res\\drawable-v24\\uzumaki.png"
+        "merged": "C:\\Users\\Lenovo\\quote\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_fullname.png.flat",
+        "source": "C:\\Users\\Lenovo\\quote\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_fullname.png"
     },
     {
-        "merged": "C:\\Users\\ACER\\AndroidStudioProjects\\quote\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
-        "source": "C:\\Users\\ACER\\AndroidStudioProjects\\quote\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+        "merged": "C:\\Users\\Lenovo\\quote\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Lenovo\\quote\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "C:\\Users\\ACER\\AndroidStudioProjects\\quote\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
-        "source": "C:\\Users\\ACER\\AndroidStudioProjects\\quote\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
+        "merged": "C:\\Users\\Lenovo\\quote\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_lgquotes.png.flat",
+        "source": "C:\\Users\\Lenovo\\quote\\app\\src\\main\\res\\drawable-v24\\lgquotes.png"
     },
     {
-        "merged": "C:\\Users\\ACER\\AndroidStudioProjects\\quote\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "C:\\Users\\ACER\\AndroidStudioProjects\\quote\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+        "merged": "C:\\Users\\Lenovo\\quote\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_fullname.png.flat",
+        "source": "C:\\Users\\Lenovo\\quote\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_fullname.png"
     },
     {
-        "merged": "C:\\Users\\ACER\\AndroidStudioProjects\\quote\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
-        "source": "C:\\Users\\ACER\\AndroidStudioProjects\\quote\\app\\src\\main\\res\\layout\\activity_main.xml"
+        "merged": "C:\\Users\\Lenovo\\quote\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_corner_profil.xml.flat",
+        "source": "C:\\Users\\Lenovo\\quote\\app\\src\\main\\res\\drawable-v24\\corner_profil.xml"
     },
     {
-        "merged": "C:\\Users\\ACER\\AndroidStudioProjects\\quote\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\ACER\\AndroidStudioProjects\\quote\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+        "merged": "C:\\Users\\Lenovo\\quote\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_password.png.flat",
+        "source": "C:\\Users\\Lenovo\\quote\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_password.png"
     },
     {
-        "merged": "C:\\Users\\ACER\\AndroidStudioProjects\\quote\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_corner_profil.xml.flat",
-        "source": "C:\\Users\\ACER\\AndroidStudioProjects\\quote\\app\\src\\main\\res\\drawable-v24\\corner_profil.xml"
+        "merged": "C:\\Users\\Lenovo\\quote\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_account_circle_24.png.flat",
+        "source": "C:\\Users\\Lenovo\\quote\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_account_circle_24.png"
     },
     {
-        "merged": "C:\\Users\\ACER\\AndroidStudioProjects\\quote\\app\\build\\intermediates\\res\\merged\\debug\\layout_profil_main.xml.flat",
-        "source": "C:\\Users\\ACER\\AndroidStudioProjects\\quote\\app\\src\\main\\res\\layout\\profil_main.xml"
+        "merged": "C:\\Users\\Lenovo\\quote\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_password.xml.flat",
+        "source": "C:\\Users\\Lenovo\\quote\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_password.xml"
     },
     {
-        "merged": "C:\\Users\\ACER\\AndroidStudioProjects\\quote\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
-        "source": "C:\\Users\\ACER\\AndroidStudioProjects\\quote\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+        "merged": "C:\\Users\\Lenovo\\quote\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_email.xml.flat",
+        "source": "C:\\Users\\Lenovo\\quote\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_email.xml"
     },
     {
-        "merged": "C:\\Users\\ACER\\AndroidStudioProjects\\quote\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
-        "source": "C:\\Users\\ACER\\AndroidStudioProjects\\quote\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+        "merged": "C:\\Users\\Lenovo\\quote\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Lenovo\\quote\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
     },
     {
-        "merged": "C:\\Users\\ACER\\AndroidStudioProjects\\quote\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
-        "source": "C:\\Users\\ACER\\AndroidStudioProjects\\quote\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
+        "merged": "C:\\Users\\Lenovo\\quote\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_account_circle_24.png.flat",
+        "source": "C:\\Users\\Lenovo\\quote\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_account_circle_24.png"
     },
     {
-        "merged": "C:\\Users\\ACER\\AndroidStudioProjects\\quote\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
-        "source": "C:\\Users\\ACER\\AndroidStudioProjects\\quote\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
+        "merged": "C:\\Users\\Lenovo\\quote\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_email.png.flat",
+        "source": "C:\\Users\\Lenovo\\quote\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_email.png"
     },
     {
-        "merged": "C:\\Users\\ACER\\AndroidStudioProjects\\quote\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_profil.xml.flat",
-        "source": "C:\\Users\\ACER\\AndroidStudioProjects\\quote\\app\\src\\main\\res\\layout\\item_profil.xml"
+        "merged": "C:\\Users\\Lenovo\\quote\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_fullname.png.flat",
+        "source": "C:\\Users\\Lenovo\\quote\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_fullname.png"
     },
     {
-        "merged": "C:\\Users\\ACER\\AndroidStudioProjects\\quote\\app\\build\\intermediates\\res\\merged\\debug\\font_mmedium.ttf.flat",
-        "source": "C:\\Users\\ACER\\AndroidStudioProjects\\quote\\app\\src\\main\\res\\font\\mmedium.ttf"
+        "merged": "C:\\Users\\Lenovo\\quote\\app\\build\\intermediates\\res\\merged\\debug\\layout_profil_main.xml.flat",
+        "source": "C:\\Users\\Lenovo\\quote\\app\\src\\main\\res\\layout\\profil_main.xml"
     },
     {
-        "merged": "C:\\Users\\ACER\\AndroidStudioProjects\\quote\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_gradient_color.xml.flat",
-        "source": "C:\\Users\\ACER\\AndroidStudioProjects\\quote\\app\\src\\main\\res\\drawable-v24\\gradient_color.xml"
+        "merged": "C:\\Users\\Lenovo\\quote\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_register.xml.flat",
+        "source": "C:\\Users\\Lenovo\\quote\\app\\src\\main\\res\\layout\\activity_register.xml"
     },
     {
-        "merged": "C:\\Users\\ACER\\AndroidStudioProjects\\quote\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
-        "source": "C:\\Users\\ACER\\AndroidStudioProjects\\quote\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
+        "merged": "C:\\Users\\Lenovo\\quote\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Lenovo\\quote\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "C:\\Users\\ACER\\AndroidStudioProjects\\quote\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\ACER\\AndroidStudioProjects\\quote\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+        "merged": "C:\\Users\\Lenovo\\quote\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_email.png.flat",
+        "source": "C:\\Users\\Lenovo\\quote\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_email.png"
     },
     {
-        "merged": "C:\\Users\\ACER\\AndroidStudioProjects\\quote\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\ACER\\AndroidStudioProjects\\quote\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+        "merged": "C:\\Users\\Lenovo\\quote\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Lenovo\\quote\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
     },
     {
-        "merged": "C:\\Users\\ACER\\AndroidStudioProjects\\quote\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_quote_profil.xml.flat",
-        "source": "C:\\Users\\ACER\\AndroidStudioProjects\\quote\\app\\src\\main\\res\\layout\\item_quote_profil.xml"
+        "merged": "C:\\Users\\Lenovo\\quote\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_gradient_color.xml.flat",
+        "source": "C:\\Users\\Lenovo\\quote\\app\\src\\main\\res\\drawable-v24\\gradient_color.xml"
     },
     {
-        "merged": "C:\\Users\\ACER\\AndroidStudioProjects\\quote\\app\\build\\intermediates\\res\\merged\\debug\\font_mlight.ttf.flat",
-        "source": "C:\\Users\\ACER\\AndroidStudioProjects\\quote\\app\\src\\main\\res\\font\\mlight.ttf"
+        "merged": "C:\\Users\\Lenovo\\quote\\app\\build\\intermediates\\res\\merged\\debug\\font_mlight.ttf.flat",
+        "source": "C:\\Users\\Lenovo\\quote\\app\\src\\main\\res\\font\\mlight.ttf"
     },
     {
-        "merged": "C:\\Users\\ACER\\AndroidStudioProjects\\quote\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "C:\\Users\\ACER\\AndroidStudioProjects\\quote\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+        "merged": "C:\\Users\\Lenovo\\quote\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Lenovo\\quote\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
     },
     {
-        "merged": "C:\\Users\\ACER\\AndroidStudioProjects\\quote\\app\\build\\intermediates\\res\\merged\\debug\\font_msemibold.ttf.flat",
-        "source": "C:\\Users\\ACER\\AndroidStudioProjects\\quote\\app\\src\\main\\res\\font\\msemibold.ttf"
+        "merged": "C:\\Users\\Lenovo\\quote\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_email.png.flat",
+        "source": "C:\\Users\\Lenovo\\quote\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_email.png"
     },
     {
-        "merged": "C:\\Users\\ACER\\AndroidStudioProjects\\quote\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
-        "source": "C:\\Users\\ACER\\AndroidStudioProjects\\quote\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
+        "merged": "C:\\Users\\Lenovo\\quote\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_account_circle_24.png.flat",
+        "source": "C:\\Users\\Lenovo\\quote\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_account_circle_24.png"
     },
     {
-        "merged": "C:\\Users\\ACER\\AndroidStudioProjects\\quote\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
-        "source": "C:\\Users\\ACER\\AndroidStudioProjects\\quote\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+        "merged": "C:\\Users\\Lenovo\\quote\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Lenovo\\quote\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\ACER\\AndroidStudioProjects\\quote\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\ACER\\AndroidStudioProjects\\quote\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+        "merged": "C:\\Users\\Lenovo\\quote\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_account_circle_24.xml.flat",
+        "source": "C:\\Users\\Lenovo\\quote\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_account_circle_24.xml"
     },
     {
-        "merged": "C:\\Users\\ACER\\AndroidStudioProjects\\quote\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
-        "source": "C:\\Users\\ACER\\AndroidStudioProjects\\quote\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
+        "merged": "C:\\Users\\Lenovo\\quote\\app\\build\\intermediates\\res\\merged\\debug\\font_mmedium.ttf.flat",
+        "source": "C:\\Users\\Lenovo\\quote\\app\\src\\main\\res\\font\\mmedium.ttf"
     },
     {
-        "merged": "C:\\Users\\ACER\\AndroidStudioProjects\\quote\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
-        "source": "C:\\Users\\ACER\\AndroidStudioProjects\\quote\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+        "merged": "C:\\Users\\Lenovo\\quote\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_account_circle_24.png.flat",
+        "source": "C:\\Users\\Lenovo\\quote\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_account_circle_24.png"
     },
     {
-        "merged": "C:\\Users\\ACER\\AndroidStudioProjects\\quote\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\ACER\\AndroidStudioProjects\\quote\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+        "merged": "C:\\Users\\Lenovo\\quote\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Lenovo\\quote\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
     },
     {
-        "merged": "C:\\Users\\ACER\\AndroidStudioProjects\\quote\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
-        "source": "C:\\Users\\ACER\\AndroidStudioProjects\\quote\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
+        "merged": "C:\\Users\\Lenovo\\quote\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Lenovo\\quote\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
     },
     {
-        "merged": "C:\\Users\\ACER\\AndroidStudioProjects\\quote\\app\\build\\intermediates\\res\\merged\\debug\\font_mregular.ttf.flat",
-        "source": "C:\\Users\\ACER\\AndroidStudioProjects\\quote\\app\\src\\main\\res\\font\\mregular.ttf"
+        "merged": "C:\\Users\\Lenovo\\quote\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_home.xml.flat",
+        "source": "C:\\Users\\Lenovo\\quote\\app\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\quote\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_account_circle_24.png.flat",
+        "source": "C:\\Users\\Lenovo\\quote\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_account_circle_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\quote\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_fullname.png.flat",
+        "source": "C:\\Users\\Lenovo\\quote\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_fullname.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\quote\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Lenovo\\quote\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\quote\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_quote_profil.xml.flat",
+        "source": "C:\\Users\\Lenovo\\quote\\app\\src\\main\\res\\layout\\item_quote_profil.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\quote\\app\\build\\intermediates\\res\\merged\\debug\\font_mregular.ttf.flat",
+        "source": "C:\\Users\\Lenovo\\quote\\app\\src\\main\\res\\font\\mregular.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\quote\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_password.png.flat",
+        "source": "C:\\Users\\Lenovo\\quote\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_password.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\quote\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_button.xml.flat",
+        "source": "C:\\Users\\Lenovo\\quote\\app\\src\\main\\res\\drawable\\bg_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\quote\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Lenovo\\quote\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\quote\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Lenovo\\quote\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\quote\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Lenovo\\quote\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\quote\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Lenovo\\quote\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\quote\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Lenovo\\quote\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\quote\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_password.png.flat",
+        "source": "C:\\Users\\Lenovo\\quote\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_password.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\quote\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Lenovo\\quote\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\quote\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_password.png.flat",
+        "source": "C:\\Users\\Lenovo\\quote\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_password.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\quote\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_email.png.flat",
+        "source": "C:\\Users\\Lenovo\\quote\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_email.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\quote\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_password.png.flat",
+        "source": "C:\\Users\\Lenovo\\quote\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_password.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\quote\\app\\build\\intermediates\\res\\merged\\debug\\font_msemibold.ttf.flat",
+        "source": "C:\\Users\\Lenovo\\quote\\app\\src\\main\\res\\font\\msemibold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\quote\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Lenovo\\quote\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\quote\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_email.png.flat",
+        "source": "C:\\Users\\Lenovo\\quote\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_email.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\quote\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_fullname.xml.flat",
+        "source": "C:\\Users\\Lenovo\\quote\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_fullname.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\quote\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Lenovo\\quote\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\quote\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Lenovo\\quote\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\quote\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\Lenovo\\quote\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\quote\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_email.png.flat",
+        "source": "C:\\Users\\Lenovo\\quote\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_email.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\quote\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Lenovo\\quote\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\quote\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_uzumaki.png.flat",
+        "source": "C:\\Users\\Lenovo\\quote\\app\\src\\main\\res\\drawable-v24\\uzumaki.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\quote\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_profil.xml.flat",
+        "source": "C:\\Users\\Lenovo\\quote\\app\\src\\main\\res\\layout\\item_profil.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\quote\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Lenovo\\quote\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\quote\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Lenovo\\quote\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\quote\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_password.png.flat",
+        "source": "C:\\Users\\Lenovo\\quote\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_password.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\quote\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_lgquotesungu.png.flat",
+        "source": "C:\\Users\\Lenovo\\quote\\app\\src\\main\\res\\drawable-v24\\lgquotesungu.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\quote\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_text_field.xml.flat",
+        "source": "C:\\Users\\Lenovo\\quote\\app\\src\\main\\res\\drawable\\bg_text_field.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\quote\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_fullname.png.flat",
+        "source": "C:\\Users\\Lenovo\\quote\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_fullname.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\quote\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_fullname.png.flat",
+        "source": "C:\\Users\\Lenovo\\quote\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_fullname.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\quote\\app\\build\\intermediates\\res\\merged\\debug\\font_montserrat.ttf.flat",
+        "source": "C:\\Users\\Lenovo\\quote\\app\\src\\main\\res\\font\\montserrat.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\quote\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_account_circle_24.png.flat",
+        "source": "C:\\Users\\Lenovo\\quote\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_account_circle_24.png"
     }
 ]
