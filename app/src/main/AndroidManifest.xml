@@ -9,7 +9,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.Quote">
-        <activity android:name=".ProfilActivity">
+        <activity android:name=".NavigationBottom">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

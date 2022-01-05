@@ -1,4 +1,17 @@
 <resources>
     <string name="app_name">quote</string>
     <string name="QuoteProfil">Quote Profil</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="in_life">In Life :</string>
+    <string name="todo">simbokkatabijak</string>
+    <string name="kata_bijak">Kata Bijak</string>
+    <string name="kata_motivasi">Kata Motivasi</string>
+<!--    <string name="romansa">Romansa :</string>-->
+    <string name="kata_romantis">Kata Romantis</string>
+    <string name="kata_galau">Kata Galau</string>
+    <string name="pantun_romantis">Pantun Romantis</string>
+<!--    <string name="teka_teki">Teka-teki :</string>-->
+    <string name="romansa">Romansa :</string>
+    <string name="teka_teki">Teka-teki :</string>
 </resources>
