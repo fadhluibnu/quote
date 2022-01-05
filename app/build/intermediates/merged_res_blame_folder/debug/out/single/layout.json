@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_register.xml",
+        "source": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_dashboard.xml",
+        "source": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\src\\main\\res\\layout\\fragment_dashboard.xml"
+    },
+    {
+        "merged": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\bottom_navigation.xml",
+        "source": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\src\\main\\res\\layout\\bottom_navigation.xml"
+    },
+    {
+        "merged": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_beranda.xml",
+        "source": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\src\\main\\res\\layout\\fragment_beranda.xml"
+    },
+    {
+        "merged": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\profil_main.xml",
+        "source": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\src\\main\\res\\layout\\profil_main.xml"
+    },
+    {
+        "merged": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_add.xml",
+        "source": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\src\\main\\res\\layout\\fragment_add.xml"
+    },
+    {
+        "merged": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_home.xml",
+        "source": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_quote_profil.xml",
+        "source": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\src\\main\\res\\layout\\item_quote_profil.xml"
+    },
+    {
+        "merged": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_profil.xml",
+        "source": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\src\\main\\res\\layout\\item_profil.xml"
+    },
+    {
+        "merged": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_login.xml",
+        "source": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]

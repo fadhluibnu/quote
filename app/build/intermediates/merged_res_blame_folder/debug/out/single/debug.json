@@ -4,20 +4,16 @@
         "source": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_beranda.png"
     },
     {
-        "merged": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
-        "source": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+        "merged": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_account_circle_24.png.flat",
+        "source": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_account_circle_24.png"
+    },
+    {
+        "merged": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_account_circle_24.png.flat",
+        "source": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_account_circle_24.png"
     },
     {
         "merged": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_dashboard.png.flat",
         "source": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_dashboard.png"
-    },
-    {
-        "merged": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\intermediates\\res\\merged\\debug\\layout_bottom_navigation.xml.flat",
-        "source": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\src\\main\\res\\layout\\bottom_navigation.xml"
-    },
-    {
-        "merged": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_simbol_katabijak.png.flat",
-        "source": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\src\\main\\res\\drawable-v24\\simbol_katabijak.png"
     },
     {
         "merged": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\intermediates\\res\\merged\\debug\\font_mlight.ttf.flat",
@@ -32,8 +28,16 @@
         "source": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_dashboard.png"
     },
     {
+        "merged": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_email.png.flat",
+        "source": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_email.png"
+    },
+    {
         "merged": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_profil.xml.flat",
         "source": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\src\\main\\res\\layout\\item_profil.xml"
+    },
+    {
+        "merged": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_email.png.flat",
+        "source": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_email.png"
     },
     {
         "merged": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_uzumaki.png.flat",
@@ -44,36 +48,32 @@
         "source": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_dashboard.png"
     },
     {
-        "merged": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
-        "source": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
-    },
-    {
         "merged": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_beranda.xml.flat",
         "source": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\src\\main\\res\\layout\\fragment_beranda.xml"
     },
     {
-        "merged": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
-        "source": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+        "merged": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_email.png.flat",
+        "source": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_email.png"
     },
     {
         "merged": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_dashboard.png.flat",
         "source": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_dashboard.png"
     },
     {
-        "merged": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_add.png.flat",
-        "source": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_add.png"
-    },
-    {
-        "merged": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
-        "source": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+        "merged": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_fullname.xml.flat",
+        "source": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_fullname.xml"
     },
     {
         "merged": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
         "source": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
     },
     {
-        "merged": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_add.xml.flat",
-        "source": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\src\\main\\res\\layout\\fragment_add.xml"
+        "merged": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_password.xml.flat",
+        "source": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_password.xml"
     },
     {
         "merged": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_add.xml.flat",
@@ -84,52 +84,28 @@
         "source": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\src\\main\\res\\drawable-v24\\simbol_pantunromantiss.png"
     },
     {
-        "merged": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_beranda.xml.flat",
-        "source": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_beranda.xml"
-    },
-    {
-        "merged": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
-        "source": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
-    },
-    {
-        "merged": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_dashboard.xml.flat",
-        "source": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_dashboard.xml"
-    },
-    {
-        "merged": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
-        "source": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
+        "merged": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_lgquotesungu.png.flat",
+        "source": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\src\\main\\res\\drawable-v24\\lgquotesungu.png"
     },
     {
         "merged": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
         "source": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
     },
     {
-        "merged": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_corner_profil.xml.flat",
-        "source": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\src\\main\\res\\drawable-v24\\corner_profil.xml"
+        "merged": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_password.png.flat",
+        "source": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_password.png"
     },
     {
-        "merged": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
-        "source": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
+        "merged": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
     },
     {
         "merged": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_nav.xml.flat",
         "source": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\src\\main\\res\\menu\\menu_nav.xml"
     },
     {
-        "merged": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\intermediates\\res\\merged\\debug\\font_msemibold.ttf.flat",
-        "source": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\src\\main\\res\\font\\msemibold.ttf"
-    },
-    {
-        "merged": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_dashboard.png.flat",
-        "source": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_dashboard.png"
-    },
-    {
-        "merged": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
-        "source": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
-    },
-    {
-        "merged": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_quote_profil.xml.flat",
-        "source": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\src\\main\\res\\layout\\item_quote_profil.xml"
+        "merged": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
+        "source": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\src\\main\\res\\layout\\activity_login.xml"
     },
     {
         "merged": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_simbolkatagalau.png.flat",
@@ -144,12 +120,16 @@
         "source": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_add.png"
     },
     {
-        "merged": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_beranda.png.flat",
-        "source": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_beranda.png"
+        "merged": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_password.png.flat",
+        "source": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_password.png"
     },
     {
         "merged": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_dashboard.png.flat",
         "source": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_dashboard.png"
+    },
+    {
+        "merged": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_account_circle_24.png.flat",
+        "source": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_account_circle_24.png"
     },
     {
         "merged": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_add.png.flat",
@@ -160,32 +140,16 @@
         "source": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_add.png"
     },
     {
-        "merged": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\intermediates\\res\\merged\\debug\\layout_profil_main.xml.flat",
-        "source": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\src\\main\\res\\layout\\profil_main.xml"
+        "merged": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_account_circle_24.png.flat",
+        "source": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_account_circle_24.png"
     },
     {
-        "merged": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\intermediates\\res\\merged\\debug\\font_mregular.ttf.flat",
-        "source": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\src\\main\\res\\font\\mregular.ttf"
-    },
-    {
-        "merged": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
-        "source": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+        "merged": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_fullname.png.flat",
+        "source": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_fullname.png"
     },
     {
         "merged": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
         "source": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
-    },
-    {
-        "merged": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_simbol_kataromantis.png.flat",
-        "source": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\src\\main\\res\\drawable-v24\\simbol_kataromantis.png"
-    },
-    {
-        "merged": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_beranda.png.flat",
-        "source": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_beranda.png"
-    },
-    {
-        "merged": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
     {
         "merged": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_add.png.flat",
@@ -204,24 +168,16 @@
         "source": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\src\\main\\res\\layout\\fragment_dashboard.xml"
     },
     {
-        "merged": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_simbol_tekateki.png.flat",
-        "source": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\src\\main\\res\\drawable-v24\\simbol_tekateki.png"
-    },
-    {
-        "merged": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_beranda.png.flat",
-        "source": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_beranda.png"
-    },
-    {
         "merged": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
         "source": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
     },
     {
-        "merged": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
-        "source": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+        "merged": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_password.png.flat",
+        "source": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_password.png"
     },
     {
-        "merged": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_beranda.png.flat",
-        "source": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_beranda.png"
+        "merged": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
     },
     {
         "merged": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_simbol_katamotivasi.png.flat",
@@ -234,14 +190,6 @@
     {
         "merged": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_bglogin.png.flat",
         "source": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\src\\main\\res\\drawable-v24\\bglogin.png"
-    },
-    {
-        "merged": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_add.png.flat",
-        "source": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_add.png"
-    },
-    {
-        "merged": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_lgquotes.png.flat",
-        "source": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\src\\main\\res\\drawable-v24\\lgquotes.png"
     },
     {
         "merged": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
@@ -258,5 +206,201 @@
     {
         "merged": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_gradient_color.xml.flat",
         "source": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\src\\main\\res\\drawable-v24\\gradient_color.xml"
+    },
+    {
+        "merged": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\intermediates\\res\\merged\\debug\\layout_bottom_navigation.xml.flat",
+        "source": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\src\\main\\res\\layout\\bottom_navigation.xml"
+    },
+    {
+        "merged": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_simbol_katabijak.png.flat",
+        "source": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\src\\main\\res\\drawable-v24\\simbol_katabijak.png"
+    },
+    {
+        "merged": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_button.xml.flat",
+        "source": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\src\\main\\res\\drawable\\bg_button.xml"
+    },
+    {
+        "merged": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_text_field.xml.flat",
+        "source": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\src\\main\\res\\drawable\\bg_text_field.xml"
+    },
+    {
+        "merged": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_email.png.flat",
+        "source": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_email.png"
+    },
+    {
+        "merged": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_account_circle_24.png.flat",
+        "source": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_account_circle_24.png"
+    },
+    {
+        "merged": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_fullname.png.flat",
+        "source": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_fullname.png"
+    },
+    {
+        "merged": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\intermediates\\res\\merged\\debug\\font_montserrat.ttf.flat",
+        "source": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\src\\main\\res\\font\\montserrat.ttf"
+    },
+    {
+        "merged": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_add.png.flat",
+        "source": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_add.png"
+    },
+    {
+        "merged": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_fullname.png.flat",
+        "source": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_fullname.png"
+    },
+    {
+        "merged": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_home.xml.flat",
+        "source": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_add.xml.flat",
+        "source": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\src\\main\\res\\layout\\fragment_add.xml"
+    },
+    {
+        "merged": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_account_circle_24.xml.flat",
+        "source": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_account_circle_24.xml"
+    },
+    {
+        "merged": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_beranda.xml.flat",
+        "source": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_beranda.xml"
+    },
+    {
+        "merged": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_dashboard.xml.flat",
+        "source": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_dashboard.xml"
+    },
+    {
+        "merged": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_corner_profil.xml.flat",
+        "source": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\src\\main\\res\\drawable-v24\\corner_profil.xml"
+    },
+    {
+        "merged": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\intermediates\\res\\merged\\debug\\font_msemibold.ttf.flat",
+        "source": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\src\\main\\res\\font\\msemibold.ttf"
+    },
+    {
+        "merged": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_dashboard.png.flat",
+        "source": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_dashboard.png"
+    },
+    {
+        "merged": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_email.png.flat",
+        "source": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_email.png"
+    },
+    {
+        "merged": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_password.png.flat",
+        "source": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_password.png"
+    },
+    {
+        "merged": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_quote_profil.xml.flat",
+        "source": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\src\\main\\res\\layout\\item_quote_profil.xml"
+    },
+    {
+        "merged": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_fullname.png.flat",
+        "source": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_fullname.png"
+    },
+    {
+        "merged": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_fullname.png.flat",
+        "source": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_fullname.png"
+    },
+    {
+        "merged": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_register.xml.flat",
+        "source": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_fullname.png.flat",
+        "source": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_fullname.png"
+    },
+    {
+        "merged": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_beranda.png.flat",
+        "source": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_beranda.png"
+    },
+    {
+        "merged": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\intermediates\\res\\merged\\debug\\layout_profil_main.xml.flat",
+        "source": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\src\\main\\res\\layout\\profil_main.xml"
+    },
+    {
+        "merged": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\intermediates\\res\\merged\\debug\\font_mregular.ttf.flat",
+        "source": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\src\\main\\res\\font\\mregular.ttf"
+    },
+    {
+        "merged": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_account_circle_24.png.flat",
+        "source": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_account_circle_24.png"
+    },
+    {
+        "merged": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_simbol_kataromantis.png.flat",
+        "source": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\src\\main\\res\\drawable-v24\\simbol_kataromantis.png"
+    },
+    {
+        "merged": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_beranda.png.flat",
+        "source": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_beranda.png"
+    },
+    {
+        "merged": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_email.png.flat",
+        "source": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_email.png"
+    },
+    {
+        "merged": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_password.png.flat",
+        "source": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_password.png"
+    },
+    {
+        "merged": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_icon_quote.png.flat",
+        "source": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\src\\main\\res\\drawable-v24\\icon_quote.png"
+    },
+    {
+        "merged": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_simbol_tekateki.png.flat",
+        "source": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\src\\main\\res\\drawable-v24\\simbol_tekateki.png"
+    },
+    {
+        "merged": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_beranda.png.flat",
+        "source": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_beranda.png"
+    },
+    {
+        "merged": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_beranda.png.flat",
+        "source": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_beranda.png"
+    },
+    {
+        "merged": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_email.xml.flat",
+        "source": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_email.xml"
+    },
+    {
+        "merged": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_password.png.flat",
+        "source": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_password.png"
+    },
+    {
+        "merged": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_add.png.flat",
+        "source": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_add.png"
+    },
+    {
+        "merged": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_lgquotes.png.flat",
+        "source": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\src\\main\\res\\drawable-v24\\lgquotes.png"
     }
 ]

@@ -3,6 +3,14 @@
   <component name="WizardSettings">
     <option name="children">
       <map>
+<<<<<<< HEAD
+        <entry key="imageWizard">
+          <value>
+            <PersistentState />
+          </value>
+        </entry>
+=======
+>>>>>>> 10ef13d4ed785f7f5b8f5a95e4989af56f3cb44a
         <entry key="vectorWizard">
           <value>
             <PersistentState>
@@ -18,7 +26,15 @@
                                 <PersistentState>
                                   <option name="values">
                                     <map>
+<<<<<<< HEAD
                                       <entry key="url" value="jar:file:/C:/Program%20Files/Android/Android%20Studio/plugins/android/lib/android.jar!/images/material/icons/materialicons/home/baseline_home_24.xml" />
+=======
+<<<<<<< HEAD
+                                      <entry key="url" value="jar:file:/C:/Program%20Files/Android/Android%20Studio/plugins/android/lib/android.jar!/images/material/icons/materialicons/assignment_ind/baseline_assignment_ind_24.xml" />
+=======
+                                      <entry key="url" value="jar:file:/C:/Program%20Files/Android/Android%20Studio/plugins/android/lib/android.jar!/images/material/icons/materialicons/dashboard/baseline_dashboard_24.xml" />
+>>>>>>> 10ef13d4ed785f7f5b8f5a95e4989af56f3cb44a
+>>>>>>> 901cd41edd6af3dd1017d9d0eca168fe3848ded1
                                     </map>
                                   </option>
                                 </PersistentState>
@@ -28,8 +44,18 @@
                         </option>
                         <option name="values">
                           <map>
+<<<<<<< HEAD
                             <entry key="outputName" value="ic_beranda" />
+=======
+<<<<<<< HEAD
+                            <entry key="color" value="8c8c8c" />
+                            <entry key="outputName" value="ic_fullname" />
+                            <entry key="sourceFile" value="C:\Users\Lenovo\quote" />
+=======
+                            <entry key="outputName" value="ic_dashboard" />
+>>>>>>> 901cd41edd6af3dd1017d9d0eca168fe3848ded1
                             <entry key="sourceFile" value="F:\XI RPL 4 (AGI)\KK4-B_Muh Agi\quote" />
+>>>>>>> 10ef13d4ed785f7f5b8f5a95e4989af56f3cb44a
                           </map>
                         </option>
                       </PersistentState>

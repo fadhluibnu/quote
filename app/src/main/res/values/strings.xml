@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">quote</string>
     <string name="QuoteProfil">Quote Profil</string>
+<!--<<<<<<< HEAD-->
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="in_life">In Life :</string>
@@ -14,4 +15,28 @@
 <!--    <string name="teka_teki">Teka-teki :</string>-->
     <string name="romansa">Romansa :</string>
     <string name="teka_teki">Teka-teki :</string>
+=======
+    <string name="start_sub_tittle">
+        Nice to meet you, come join our community!
+        <br><b>Login</b> if you already have an account.</br>
+        <br><b>Register</b> to get started with the app.</br>
+    </string>
+    <string name="login_sub_tittle">
+        <font color="#56AEEA"><b>Login</b></font>
+        if you already have an account.
+    </string>
+    <string name="Login_havent_account">
+        I don\'t have an account
+        <font color="#56AEEA"><b>Register</b></font>
+    </string>
+    <string name="register_tittle">Create an account</string>
+    <string name="register_sub_tittle">
+        <font color="#56AEEA"><b>Register</b></font>
+        to get started with the app.
+    </string>
+    <string name="register_have_account">
+        I already have an account
+        <font color="#56AEEA"><b>Login</b></font>
+    </string>
+>>>>>>> 901cd41edd6af3dd1017d9d0eca168fe3848ded1
 </resources>
