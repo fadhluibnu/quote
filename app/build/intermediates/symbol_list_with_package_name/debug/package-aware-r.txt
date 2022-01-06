@@ -1785,6 +1785,7 @@ drawable avd_hide_password
 drawable avd_show_password
 drawable bg_button
 drawable bg_text_field
+drawable bglogin
 drawable btn_checkbox_checked_mtrl
 drawable btn_checkbox_checked_to_unchecked_mtrl_animation
 drawable btn_checkbox_unchecked_mtrl
@@ -1800,8 +1801,11 @@ drawable design_ic_visibility_off
 drawable design_password_eye
 drawable design_snackbar_background
 drawable gradient_color
+drawable ic_add
 drawable ic_baseline_account_circle_24
+drawable ic_beranda
 drawable ic_clock_black_24dp
+drawable ic_dashboard
 drawable ic_email
 drawable ic_fullname
 drawable ic_keyboard_black_24dp
@@ -2435,6 +2439,7 @@ layout activity_home
 layout activity_login
 layout activity_main
 layout activity_register
+layout bottom_navigation
 layout custom_dialog
 layout design_bottom_navigation_item
 layout design_bottom_sheet_dialog
@@ -2451,6 +2456,9 @@ layout design_navigation_menu
 layout design_navigation_menu_item
 layout design_text_input_end_icon
 layout design_text_input_start_icon
+layout fragment_add
+layout fragment_beranda
+layout fragment_dashboard
 layout item_profil
 layout item_quote_profil
 layout material_chip_input_combo
@@ -2524,6 +2532,7 @@ layout text_view_with_theme_line_height
 layout text_view_without_line_height
 menu example_menu
 menu example_menu2
+menu menu_nav
 mipmap ic_launcher
 mipmap ic_launcher_round
 plurals mtrl_badge_content_description

@@ -1,16 +1,24 @@
-com/example/quote/BuildConfig.java
- com.example.quote.BuildConfig
 com/example/quote/databinding/ActivityLoginBinding.java
  com.example.quote.databinding.ActivityLoginBinding
+com/example/quote/BuildConfig.java
+ com.example.quote.BuildConfig
 com/example/quote/databinding/ActivityRegisterBinding.java
  com.example.quote.databinding.ActivityRegisterBinding
+com/example/quote/databinding/FragmentDashboardBinding.java
+ com.example.quote.databinding.FragmentDashboardBinding
 com/example/quote/databinding/ItemProfilBinding.java
  com.example.quote.databinding.ItemProfilBinding
+com/example/quote/databinding/FragmentBerandaBinding.java
+ com.example.quote.databinding.FragmentBerandaBinding
 com/example/quote/databinding/ItemQuoteProfilBinding.java
  com.example.quote.databinding.ItemQuoteProfilBinding
+com/example/quote/databinding/FragmentAddBinding.java
+ com.example.quote.databinding.FragmentAddBinding
 com/example/quote/databinding/ActivityHomeBinding.java
  com.example.quote.databinding.ActivityHomeBinding
 com/example/quote/databinding/ActivityMainBinding.java
  com.example.quote.databinding.ActivityMainBinding
+com/example/quote/databinding/BottomNavigationBinding.java
+ com.example.quote.databinding.BottomNavigationBinding
 com/example/quote/databinding/ProfilMainBinding.java
  com.example.quote.databinding.ProfilMainBinding

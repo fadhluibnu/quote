@@ -4,6 +4,10 @@
         "source": "C:\\Users\\Lenovo\\quote\\app\\src\\main\\res\\layout\\item_quote_profil.xml"
     },
     {
+        "merged": "C:\\Users\\Lenovo\\quote\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_beranda.xml",
+        "source": "C:\\Users\\Lenovo\\quote\\app\\src\\main\\res\\layout\\fragment_beranda.xml"
+    },
+    {
         "merged": "C:\\Users\\Lenovo\\quote\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_profil.xml",
         "source": "C:\\Users\\Lenovo\\quote\\app\\src\\main\\res\\layout\\item_profil.xml"
     },
@@ -16,8 +20,20 @@
         "source": "C:\\Users\\Lenovo\\quote\\app\\src\\main\\res\\layout\\activity_register.xml"
     },
     {
+        "merged": "C:\\Users\\Lenovo\\quote\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_add.xml",
+        "source": "C:\\Users\\Lenovo\\quote\\app\\src\\main\\res\\layout\\fragment_add.xml"
+    },
+    {
         "merged": "C:\\Users\\Lenovo\\quote\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_home.xml",
         "source": "C:\\Users\\Lenovo\\quote\\app\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\quote\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_dashboard.xml",
+        "source": "C:\\Users\\Lenovo\\quote\\app\\src\\main\\res\\layout\\fragment_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\quote\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\bottom_navigation.xml",
+        "source": "C:\\Users\\Lenovo\\quote\\app\\src\\main\\res\\layout\\bottom_navigation.xml"
     },
     {
         "merged": "C:\\Users\\Lenovo\\quote\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\profil_main.xml",

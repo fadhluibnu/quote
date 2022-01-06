@@ -95,28 +95,32 @@ MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\Lenovo\.gradle\cac
 		ADDED from C:\Users\Lenovo\quote\app\src\main\AndroidManifest.xml:6:9-35
 	android:theme
 		ADDED from C:\Users\Lenovo\quote\app\src\main\AndroidManifest.xml:11:9-43
-activity#com.example.quote.HomeActivity
-ADDED from C:\Users\Lenovo\quote\app\src\main\AndroidManifest.xml:12:9-49
+activity#com.example.quote.CobaActivity
+ADDED from C:\Users\Lenovo\quote\app\src\main\AndroidManifest.xml:12:9-59
 	android:name
 		ADDED from C:\Users\Lenovo\quote\app\src\main\AndroidManifest.xml:12:19-47
+activity#com.example.quote.HomeActivity
+ADDED from C:\Users\Lenovo\quote\app\src\main\AndroidManifest.xml:13:9-50
+	android:name
+		ADDED from C:\Users\Lenovo\quote\app\src\main\AndroidManifest.xml:13:19-47
 activity#com.example.quote.RegisterActivity
-ADDED from C:\Users\Lenovo\quote\app\src\main\AndroidManifest.xml:13:9-54
+ADDED from C:\Users\Lenovo\quote\app\src\main\AndroidManifest.xml:14:9-54
 	android:name
-		ADDED from C:\Users\Lenovo\quote\app\src\main\AndroidManifest.xml:13:19-51
+		ADDED from C:\Users\Lenovo\quote\app\src\main\AndroidManifest.xml:14:19-51
 activity#com.example.quote.LoginActivity
-ADDED from C:\Users\Lenovo\quote\app\src\main\AndroidManifest.xml:14:9-50
-	android:name
-		ADDED from C:\Users\Lenovo\quote\app\src\main\AndroidManifest.xml:14:19-48
-activity#com.example.quote.ProfilActivity
 ADDED from C:\Users\Lenovo\quote\app\src\main\AndroidManifest.xml:15:9-51
 	android:name
-		ADDED from C:\Users\Lenovo\quote\app\src\main\AndroidManifest.xml:15:19-49
-activity#com.example.quote.MainActivity
-ADDED from C:\Users\Lenovo\quote\app\src\main\AndroidManifest.xml:16:9-23:20
+		ADDED from C:\Users\Lenovo\quote\app\src\main\AndroidManifest.xml:15:19-48
+activity#com.example.quote.ProfilActivity
+ADDED from C:\Users\Lenovo\quote\app\src\main\AndroidManifest.xml:16:9-52
 	android:name
-		ADDED from C:\Users\Lenovo\quote\app\src\main\AndroidManifest.xml:16:19-47
+		ADDED from C:\Users\Lenovo\quote\app\src\main\AndroidManifest.xml:16:19-49
+activity#com.example.quote.MainActivity
+ADDED from C:\Users\Lenovo\quote\app\src\main\AndroidManifest.xml:17:9-23:20
+	android:name
+		ADDED from C:\Users\Lenovo\quote\app\src\main\AndroidManifest.xml:17:19-47
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\Lenovo\quote\app\src\main\AndroidManifest.xml:18:9-22:29
+ADDED from C:\Users\Lenovo\quote\app\src\main\AndroidManifest.xml:18:13-22:29
 action#android.intent.action.MAIN
 ADDED from C:\Users\Lenovo\quote\app\src\main\AndroidManifest.xml:19:17-69
 	android:name

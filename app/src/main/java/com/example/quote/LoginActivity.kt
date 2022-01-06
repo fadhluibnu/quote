@@ -4,6 +4,7 @@ import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import com.example.quote.databinding.ActivityLoginBinding
+import com.example.quote.fragment.BerandaFragment
 
 class LoginActivity : AppCompatActivity() {
 
@@ -15,7 +16,7 @@ class LoginActivity : AppCompatActivity() {
         setContentView(binding.root)
 
         binding.btnLogin.setOnClickListener{
-            startActivity(Intent(this, HomeActivity::class.java))
+            startActivity(Intent(this, NavigationBottom::class.java))
         }
         binding.haventAccount.setOnClickListener {
             startActivity(Intent(this, RegisterActivity::class.java))
