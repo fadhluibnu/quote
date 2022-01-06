@@ -4,13 +4,21 @@ package com.example.quote.databinding;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+<<<<<<< HEAD
 import android.widget.FrameLayout;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
+=======
+import android.widget.TextView;
+import androidx.annotation.NonNull;
+import androidx.annotation.Nullable;
+import androidx.constraintlayout.widget.ConstraintLayout;
+>>>>>>> 282f8cefb51ab56d65503054fd9a254b7698254a
 import androidx.viewbinding.ViewBinding;
 import com.example.quote.R;
 import java.lang.NullPointerException;
 import java.lang.Override;
+<<<<<<< HEAD
 
 public final class FragmentAddBinding implements ViewBinding {
   @NonNull
@@ -18,11 +26,29 @@ public final class FragmentAddBinding implements ViewBinding {
 
   private FragmentAddBinding(@NonNull FrameLayout rootView) {
     this.rootView = rootView;
+=======
+import java.lang.String;
+
+public final class FragmentAddBinding implements ViewBinding {
+  @NonNull
+  private final ConstraintLayout rootView;
+
+  @NonNull
+  public final TextView textView;
+
+  private FragmentAddBinding(@NonNull ConstraintLayout rootView, @NonNull TextView textView) {
+    this.rootView = rootView;
+    this.textView = textView;
+>>>>>>> 282f8cefb51ab56d65503054fd9a254b7698254a
   }
 
   @Override
   @NonNull
+<<<<<<< HEAD
   public FrameLayout getRoot() {
+=======
+  public ConstraintLayout getRoot() {
+>>>>>>> 282f8cefb51ab56d65503054fd9a254b7698254a
     return rootView;
   }
 
@@ -43,10 +69,27 @@ public final class FragmentAddBinding implements ViewBinding {
 
   @NonNull
   public static FragmentAddBinding bind(@NonNull View rootView) {
+<<<<<<< HEAD
     if (rootView == null) {
       throw new NullPointerException("rootView");
     }
 
     return new FragmentAddBinding((FrameLayout) rootView);
+=======
+    // The body of this method is generated in a way you would not otherwise write.
+    // This is done to optimize the compiled bytecode for size and performance.
+    int id;
+    missingId: {
+      id = R.id.textView;
+      TextView textView = rootView.findViewById(id);
+      if (textView == null) {
+        break missingId;
+      }
+
+      return new FragmentAddBinding((ConstraintLayout) rootView, textView);
+    }
+    String missingId = rootView.getResources().getResourceName(id);
+    throw new NullPointerException("Missing required view with ID: ".concat(missingId));
+>>>>>>> 282f8cefb51ab56d65503054fd9a254b7698254a
   }
 }

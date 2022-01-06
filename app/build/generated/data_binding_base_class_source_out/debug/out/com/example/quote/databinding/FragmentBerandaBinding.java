@@ -4,13 +4,25 @@ package com.example.quote.databinding;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+<<<<<<< HEAD
 import android.widget.FrameLayout;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
+=======
+import android.widget.GridLayout;
+import android.widget.HorizontalScrollView;
+import android.widget.ImageView;
+import android.widget.SearchView;
+import android.widget.TextView;
+import androidx.annotation.NonNull;
+import androidx.annotation.Nullable;
+import androidx.constraintlayout.widget.ConstraintLayout;
+>>>>>>> 282f8cefb51ab56d65503054fd9a254b7698254a
 import androidx.viewbinding.ViewBinding;
 import com.example.quote.R;
 import java.lang.NullPointerException;
 import java.lang.Override;
+<<<<<<< HEAD
 
 public final class FragmentBerandaBinding implements ViewBinding {
   @NonNull
@@ -18,11 +30,75 @@ public final class FragmentBerandaBinding implements ViewBinding {
 
   private FragmentBerandaBinding(@NonNull FrameLayout rootView) {
     this.rootView = rootView;
+=======
+import java.lang.String;
+
+public final class FragmentBerandaBinding implements ViewBinding {
+  @NonNull
+  private final ConstraintLayout rootView;
+
+  @NonNull
+  public final GridLayout grideLayout;
+
+  @NonNull
+  public final GridLayout grideLayout1;
+
+  @NonNull
+  public final GridLayout grideLayout2;
+
+  @NonNull
+  public final HorizontalScrollView horizontalScrollView;
+
+  @NonNull
+  public final HorizontalScrollView horizontalScrollView1;
+
+  @NonNull
+  public final HorizontalScrollView horizontalScrollView2;
+
+  @NonNull
+  public final ImageView imageView4;
+
+  @NonNull
+  public final SearchView searchview1;
+
+  @NonNull
+  public final TextView textView3;
+
+  @NonNull
+  public final TextView textView4;
+
+  @NonNull
+  public final TextView textView5;
+
+  private FragmentBerandaBinding(@NonNull ConstraintLayout rootView,
+      @NonNull GridLayout grideLayout, @NonNull GridLayout grideLayout1,
+      @NonNull GridLayout grideLayout2, @NonNull HorizontalScrollView horizontalScrollView,
+      @NonNull HorizontalScrollView horizontalScrollView1,
+      @NonNull HorizontalScrollView horizontalScrollView2, @NonNull ImageView imageView4,
+      @NonNull SearchView searchview1, @NonNull TextView textView3, @NonNull TextView textView4,
+      @NonNull TextView textView5) {
+    this.rootView = rootView;
+    this.grideLayout = grideLayout;
+    this.grideLayout1 = grideLayout1;
+    this.grideLayout2 = grideLayout2;
+    this.horizontalScrollView = horizontalScrollView;
+    this.horizontalScrollView1 = horizontalScrollView1;
+    this.horizontalScrollView2 = horizontalScrollView2;
+    this.imageView4 = imageView4;
+    this.searchview1 = searchview1;
+    this.textView3 = textView3;
+    this.textView4 = textView4;
+    this.textView5 = textView5;
+>>>>>>> 282f8cefb51ab56d65503054fd9a254b7698254a
   }
 
   @Override
   @NonNull
+<<<<<<< HEAD
   public FrameLayout getRoot() {
+=======
+  public ConstraintLayout getRoot() {
+>>>>>>> 282f8cefb51ab56d65503054fd9a254b7698254a
     return rootView;
   }
 
@@ -43,10 +119,89 @@ public final class FragmentBerandaBinding implements ViewBinding {
 
   @NonNull
   public static FragmentBerandaBinding bind(@NonNull View rootView) {
+<<<<<<< HEAD
     if (rootView == null) {
       throw new NullPointerException("rootView");
     }
 
     return new FragmentBerandaBinding((FrameLayout) rootView);
+=======
+    // The body of this method is generated in a way you would not otherwise write.
+    // This is done to optimize the compiled bytecode for size and performance.
+    int id;
+    missingId: {
+      id = R.id.gride_layout;
+      GridLayout grideLayout = rootView.findViewById(id);
+      if (grideLayout == null) {
+        break missingId;
+      }
+
+      id = R.id.gride_layout1;
+      GridLayout grideLayout1 = rootView.findViewById(id);
+      if (grideLayout1 == null) {
+        break missingId;
+      }
+
+      id = R.id.gride_layout2;
+      GridLayout grideLayout2 = rootView.findViewById(id);
+      if (grideLayout2 == null) {
+        break missingId;
+      }
+
+      id = R.id.horizontalScrollView;
+      HorizontalScrollView horizontalScrollView = rootView.findViewById(id);
+      if (horizontalScrollView == null) {
+        break missingId;
+      }
+
+      id = R.id.horizontalScrollView1;
+      HorizontalScrollView horizontalScrollView1 = rootView.findViewById(id);
+      if (horizontalScrollView1 == null) {
+        break missingId;
+      }
+
+      id = R.id.horizontalScrollView2;
+      HorizontalScrollView horizontalScrollView2 = rootView.findViewById(id);
+      if (horizontalScrollView2 == null) {
+        break missingId;
+      }
+
+      id = R.id.imageView4;
+      ImageView imageView4 = rootView.findViewById(id);
+      if (imageView4 == null) {
+        break missingId;
+      }
+
+      id = R.id.searchview1;
+      SearchView searchview1 = rootView.findViewById(id);
+      if (searchview1 == null) {
+        break missingId;
+      }
+
+      id = R.id.textView3;
+      TextView textView3 = rootView.findViewById(id);
+      if (textView3 == null) {
+        break missingId;
+      }
+
+      id = R.id.textView4;
+      TextView textView4 = rootView.findViewById(id);
+      if (textView4 == null) {
+        break missingId;
+      }
+
+      id = R.id.textView5;
+      TextView textView5 = rootView.findViewById(id);
+      if (textView5 == null) {
+        break missingId;
+      }
+
+      return new FragmentBerandaBinding((ConstraintLayout) rootView, grideLayout, grideLayout1,
+          grideLayout2, horizontalScrollView, horizontalScrollView1, horizontalScrollView2,
+          imageView4, searchview1, textView3, textView4, textView5);
+    }
+    String missingId = rootView.getResources().getResourceName(id);
+    throw new NullPointerException("Missing required view with ID: ".concat(missingId));
+>>>>>>> 282f8cefb51ab56d65503054fd9a254b7698254a
   }
 }

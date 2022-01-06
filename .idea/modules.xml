@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/KK4-B_Muh Agi.quote.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/KK4-B_Muh Agi.quote.app.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/quote.iml" filepath="$PROJECT_DIR$/.idea/modules/quote.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/quote.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/quote.app.iml" />
     </modules>

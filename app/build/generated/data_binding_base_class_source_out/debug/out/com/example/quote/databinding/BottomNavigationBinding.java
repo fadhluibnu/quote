@@ -4,6 +4,7 @@ package com.example.quote.databinding;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+<<<<<<< HEAD
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.constraintlayout.widget.ConstraintLayout;
@@ -18,11 +19,43 @@ public final class BottomNavigationBinding implements ViewBinding {
 
   private BottomNavigationBinding(@NonNull ConstraintLayout rootView) {
     this.rootView = rootView;
+=======
+import android.widget.FrameLayout;
+import android.widget.RelativeLayout;
+import androidx.annotation.NonNull;
+import androidx.annotation.Nullable;
+import androidx.viewbinding.ViewBinding;
+import com.example.quote.R;
+import com.google.android.material.bottomnavigation.BottomNavigationView;
+import java.lang.NullPointerException;
+import java.lang.Override;
+import java.lang.String;
+
+public final class BottomNavigationBinding implements ViewBinding {
+  @NonNull
+  private final RelativeLayout rootView;
+
+  @NonNull
+  public final BottomNavigationView bottomNavigation;
+
+  @NonNull
+  public final FrameLayout framNav;
+
+  private BottomNavigationBinding(@NonNull RelativeLayout rootView,
+      @NonNull BottomNavigationView bottomNavigation, @NonNull FrameLayout framNav) {
+    this.rootView = rootView;
+    this.bottomNavigation = bottomNavigation;
+    this.framNav = framNav;
+>>>>>>> 282f8cefb51ab56d65503054fd9a254b7698254a
   }
 
   @Override
   @NonNull
+<<<<<<< HEAD
   public ConstraintLayout getRoot() {
+=======
+  public RelativeLayout getRoot() {
+>>>>>>> 282f8cefb51ab56d65503054fd9a254b7698254a
     return rootView;
   }
 
@@ -43,10 +76,33 @@ public final class BottomNavigationBinding implements ViewBinding {
 
   @NonNull
   public static BottomNavigationBinding bind(@NonNull View rootView) {
+<<<<<<< HEAD
     if (rootView == null) {
       throw new NullPointerException("rootView");
     }
 
     return new BottomNavigationBinding((ConstraintLayout) rootView);
+=======
+    // The body of this method is generated in a way you would not otherwise write.
+    // This is done to optimize the compiled bytecode for size and performance.
+    int id;
+    missingId: {
+      id = R.id.bottom_navigation;
+      BottomNavigationView bottomNavigation = rootView.findViewById(id);
+      if (bottomNavigation == null) {
+        break missingId;
+      }
+
+      id = R.id.fram_nav;
+      FrameLayout framNav = rootView.findViewById(id);
+      if (framNav == null) {
+        break missingId;
+      }
+
+      return new BottomNavigationBinding((RelativeLayout) rootView, bottomNavigation, framNav);
+    }
+    String missingId = rootView.getResources().getResourceName(id);
+    throw new NullPointerException("Missing required view with ID: ".concat(missingId));
+>>>>>>> 282f8cefb51ab56d65503054fd9a254b7698254a
   }
 }

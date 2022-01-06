@@ -4,13 +4,21 @@ package com.example.quote.databinding;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+<<<<<<< HEAD
 import android.widget.FrameLayout;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
+=======
+import android.widget.TextView;
+import androidx.annotation.NonNull;
+import androidx.annotation.Nullable;
+import androidx.constraintlayout.widget.ConstraintLayout;
+>>>>>>> 282f8cefb51ab56d65503054fd9a254b7698254a
 import androidx.viewbinding.ViewBinding;
 import com.example.quote.R;
 import java.lang.NullPointerException;
 import java.lang.Override;
+<<<<<<< HEAD
 
 public final class FragmentDashboardBinding implements ViewBinding {
   @NonNull
@@ -18,11 +26,30 @@ public final class FragmentDashboardBinding implements ViewBinding {
 
   private FragmentDashboardBinding(@NonNull FrameLayout rootView) {
     this.rootView = rootView;
+=======
+import java.lang.String;
+
+public final class FragmentDashboardBinding implements ViewBinding {
+  @NonNull
+  private final ConstraintLayout rootView;
+
+  @NonNull
+  public final TextView textView2;
+
+  private FragmentDashboardBinding(@NonNull ConstraintLayout rootView,
+      @NonNull TextView textView2) {
+    this.rootView = rootView;
+    this.textView2 = textView2;
+>>>>>>> 282f8cefb51ab56d65503054fd9a254b7698254a
   }
 
   @Override
   @NonNull
+<<<<<<< HEAD
   public FrameLayout getRoot() {
+=======
+  public ConstraintLayout getRoot() {
+>>>>>>> 282f8cefb51ab56d65503054fd9a254b7698254a
     return rootView;
   }
 
@@ -43,10 +70,27 @@ public final class FragmentDashboardBinding implements ViewBinding {
 
   @NonNull
   public static FragmentDashboardBinding bind(@NonNull View rootView) {
+<<<<<<< HEAD
     if (rootView == null) {
       throw new NullPointerException("rootView");
     }
 
     return new FragmentDashboardBinding((FrameLayout) rootView);
+=======
+    // The body of this method is generated in a way you would not otherwise write.
+    // This is done to optimize the compiled bytecode for size and performance.
+    int id;
+    missingId: {
+      id = R.id.textView2;
+      TextView textView2 = rootView.findViewById(id);
+      if (textView2 == null) {
+        break missingId;
+      }
+
+      return new FragmentDashboardBinding((ConstraintLayout) rootView, textView2);
+    }
+    String missingId = rootView.getResources().getResourceName(id);
+    throw new NullPointerException("Missing required view with ID: ".concat(missingId));
+>>>>>>> 282f8cefb51ab56d65503054fd9a254b7698254a
   }
 }

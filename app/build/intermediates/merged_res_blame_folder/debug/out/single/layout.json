@@ -1,25 +1,31 @@
 [
     {
-        "merged": "C:\\Users\\Lenovo\\quote\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_quote_profil.xml",
-        "source": "C:\\Users\\Lenovo\\quote\\app\\src\\main\\res\\layout\\item_quote_profil.xml"
+        "merged": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_register.xml",
+        "source": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\src\\main\\res\\layout\\activity_register.xml"
     },
     {
+<<<<<<< HEAD
         "merged": "C:\\Users\\Lenovo\\quote\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_beranda.xml",
         "source": "C:\\Users\\Lenovo\\quote\\app\\src\\main\\res\\layout\\fragment_beranda.xml"
     },
     {
         "merged": "C:\\Users\\Lenovo\\quote\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_profil.xml",
         "source": "C:\\Users\\Lenovo\\quote\\app\\src\\main\\res\\layout\\item_profil.xml"
+=======
+        "merged": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_dashboard.xml",
+        "source": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\src\\main\\res\\layout\\fragment_dashboard.xml"
+>>>>>>> 282f8cefb51ab56d65503054fd9a254b7698254a
     },
     {
-        "merged": "C:\\Users\\Lenovo\\quote\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_login.xml",
-        "source": "C:\\Users\\Lenovo\\quote\\app\\src\\main\\res\\layout\\activity_login.xml"
+        "merged": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\bottom_navigation.xml",
+        "source": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\src\\main\\res\\layout\\bottom_navigation.xml"
     },
     {
-        "merged": "C:\\Users\\Lenovo\\quote\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_register.xml",
-        "source": "C:\\Users\\Lenovo\\quote\\app\\src\\main\\res\\layout\\activity_register.xml"
+        "merged": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_beranda.xml",
+        "source": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\src\\main\\res\\layout\\fragment_beranda.xml"
     },
     {
+<<<<<<< HEAD
         "merged": "C:\\Users\\Lenovo\\quote\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_add.xml",
         "source": "C:\\Users\\Lenovo\\quote\\app\\src\\main\\res\\layout\\fragment_add.xml"
     },
@@ -38,9 +44,33 @@
     {
         "merged": "C:\\Users\\Lenovo\\quote\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\profil_main.xml",
         "source": "C:\\Users\\Lenovo\\quote\\app\\src\\main\\res\\layout\\profil_main.xml"
+=======
+        "merged": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\profil_main.xml",
+        "source": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\src\\main\\res\\layout\\profil_main.xml"
     },
     {
-        "merged": "C:\\Users\\Lenovo\\quote\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
-        "source": "C:\\Users\\Lenovo\\quote\\app\\src\\main\\res\\layout\\activity_main.xml"
+        "merged": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_add.xml",
+        "source": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\src\\main\\res\\layout\\fragment_add.xml"
+>>>>>>> 282f8cefb51ab56d65503054fd9a254b7698254a
+    },
+    {
+        "merged": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_home.xml",
+        "source": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_quote_profil.xml",
+        "source": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\src\\main\\res\\layout\\item_quote_profil.xml"
+    },
+    {
+        "merged": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_profil.xml",
+        "source": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\src\\main\\res\\layout\\item_profil.xml"
+    },
+    {
+        "merged": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_login.xml",
+        "source": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "F:\\XI RPL 4 (AGI)\\KK4-B_Muh Agi\\quote\\app\\src\\main\\res\\layout\\activity_main.xml"
     }
 ]
